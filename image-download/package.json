@@ -1,0 +1,19 @@
+{
+  "name": "image-downloader",
+  "version": "1.0.0",
+  "description": "This script downloads an image from a Camera device.",
+  "main": "image-downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console-stamp": "^0.2.9",
+    "getopts": "^2.2.5",
+    "prompt-sync": "^4.2.0",
+    "thsq": "^2.0.7",
+    "uuencode": "0.0.4",
+    "winston": "^3.3.3"
+  }
+}
